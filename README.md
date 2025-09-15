@@ -1,2 +1,2 @@
 # TriALS2025
-AutoPET IV repository for SlicenDice
+TriALS repository for SlicenDice
